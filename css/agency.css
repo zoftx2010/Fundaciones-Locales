@@ -123,7 +123,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #fcff6a;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
